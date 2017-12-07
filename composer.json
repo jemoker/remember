@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jemoker\\Rememberable\\": "src/"
+            "Jemoker\\Remember\\": "src/"
         }
     }
 }
