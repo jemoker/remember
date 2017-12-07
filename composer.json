@@ -16,5 +16,6 @@
         "psr-4": {
             "Jemoker\\Remember\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
